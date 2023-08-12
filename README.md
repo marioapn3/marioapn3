@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Laravel , Programmer Zaman Now**
 
-- 👨‍💻 All of my projects are available at [marioapn3.github.io](marioapn3.github.io)
-
 - 📝 I regularly write articles on [https://mario-apn3.medium.com/](https://mario-apn3.medium.com/)
 
 - 💬 Ask me about **Flutter, Laravel,PHP**
