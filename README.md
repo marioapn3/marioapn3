@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Mario</h1>
 <h3 align="center">A passionate backend and flutter developer</h3>
 
-- 🌱 I’m currently learning **Laravel , Programmer Zaman Now**
+- 🌱 I’m currently learning **Flutter State Management BLOC , Riverpod**
 
 - 📝 I regularly write articles on [https://mario-apn3.medium.com/](https://mario-apn3.medium.com/)
 
