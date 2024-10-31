@@ -41,4 +41,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioapn3&" alt="marioapn3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioapn3&theme=dark" alt="marioapn3" /></p>
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=marioapn3&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
