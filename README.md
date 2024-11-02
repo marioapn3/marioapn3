@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Mario Aprilnino Prasetyo</h1>
-<h3 align="left">I'm Fullstack Developer</h3>
+<h3 align="left">I'm Backend Developer</h3>
 
 - 🌱 I’m currently learning **Doocker, Gin, FastAPI**
 
