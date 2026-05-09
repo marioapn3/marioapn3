@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mario.aprilnino27@gmail.com**
 
-- 🌐 Watch my portfolio on <a href="marioapn.my.id" target="_blank">marioapn.my.id</a>
+- 🌐 Watch my portfolio on <a href="marioapn.my.id" target="_blank">marioapn.vercel.app</a>
 
 - ⚡ Fun fact **I am passionate about learning new things in technology, always eager to explore the latest innovations that can expand my knowledge and skills.**
 
@@ -19,26 +19,35 @@
 <a href="https://instagram.com/mario.apn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mario.apn" height="30" width="40" /></a>
 <a href="https://medium.com/@mario-apn3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mario-apn3" height="30" width="40" /></a>
 </p>
+## 🎨 Frontend
 
-<h3 align="left">Frontend Tools:</h3>
-<p align="left"> 
-  
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/react.svg" alt="react" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/vue.svg" alt="vue" width="40" height="40"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/alpine.svg" alt="vue" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vue" alt="vue" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=alpinejs" alt="alpinejs" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/>
+</p>
 
-<h3 align="left">Backend Tools:</h3>
-<p align="left"> 
+## ⚙️ Backend
 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/laravel.svg" alt="laravel" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/golang.svg" alt="golang" width="40" height="40"/> </a> 
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/expressjs.svg" alt="express" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/fastapi.svg" alt="fastapi" width="40" height="40"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://marioapn.my.id/images/postgresql.svg" alt="fastapi" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=golang" alt="golang" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="expressjs" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/>
+</p>
+
+## 🗄️ Database & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
+</p>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioapn3&theme=dark" alt="marioapn3" /></p>
